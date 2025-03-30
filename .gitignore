@@ -5,3 +5,4 @@
 
 # Virtual environments
 .venv
+uv.lock
