@@ -1,0 +1,7 @@
+# Python-generated files
+*.py[oc]
+/dist
+*.egg-info
+
+# Virtual environments
+.venv
