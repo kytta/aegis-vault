@@ -9,6 +9,8 @@ authors = [
 ]
 requires-python = ">=3.9"
 dependencies = [
+    "attrs>=23.1.0",
+    "cryptography>=35",
 ]
 
 [build-system]
