@@ -14,6 +14,9 @@ dependencies = [
     "cryptography>=35",
 ]
 
+[project.scripts]
+aegis = "aegis_vault.cli:main"
+
 [dependency-groups]
 dev = [
     "pytest>=8",
